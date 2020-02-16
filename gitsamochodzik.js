@@ -7,6 +7,7 @@ const upCar = 90
 const downCar = 270
 const leftCar = 0
 const rightCar = 180
+// komentarz
 let myCar = {
   car: document.getElementById("car"),
   tank: 30,
