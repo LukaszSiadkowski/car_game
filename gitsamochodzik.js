@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 const up = document.getElementById("uuuuuuup");
+=======
+const up = document.getElementById("upppppp");
+>>>>>>> a4871a3de453e21db28f4887e48f99f43e268969
 const down = document.getElementById("down");
 const left = document.getElementById("left");
 const right = document.getElementById("right");
