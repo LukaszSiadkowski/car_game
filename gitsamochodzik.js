@@ -1,11 +1,10 @@
-const up = document.getElementById("uuuuuuup");
-const up = document.getElementById("upppppp");
-const down = document.getElementById("dddown");
-const left = document.getElementById("lllleft");
+const up = document.getElementById("up");
+const down = document.getElementById("down");
+const left = document.getElementById("left");
 const right = document.getElementById("right");
-const fuel = document.getElementById("fffffuel");
+const fuel = document.getElementById("fuel");
 const upCar = 90
-const downCar = 2700
+const downCar = 270
 const leftCar = 0
 const rightCar = 180
 // komentarz
