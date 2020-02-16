@@ -39,6 +39,9 @@ const gasTank = () => {
   myCar.tank = 50;
 }
 
+// firtst carReposition
+// lawndlwanldwak
+
 const carReposition = (positionChangeX, positionChangeY, rotation) => {
   if (myCar.tank > 0){
     myCar.y += positionChangeY;
