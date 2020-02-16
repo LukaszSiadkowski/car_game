@@ -5,7 +5,7 @@ const left = document.getElementById("lllleft");
 const right = document.getElementById("right");
 const fuel = document.getElementById("fffffuel");
 const upCar = 90
-const downCar = 270
+const downCar = 2700
 const leftCar = 0
 const rightCar = 180
 // komentarz
