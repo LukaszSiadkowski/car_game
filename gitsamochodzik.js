@@ -1,4 +1,4 @@
-const up = document.getElementById("up");
+const up = document.getElementById("upppppp");
 const down = document.getElementById("down");
 const left = document.getElementById("left");
 const right = document.getElementById("right");
