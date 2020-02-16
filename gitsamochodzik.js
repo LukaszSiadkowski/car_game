@@ -26,6 +26,7 @@ let myCar = {
     console.log(this);
   }
 }
+// pokazuje odanidoiwa
 
 // samochód ma:
 // spalać benzynę ma bak 50 l 
