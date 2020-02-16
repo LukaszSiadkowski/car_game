@@ -1,6 +1,6 @@
 const up = document.getElementById("uuuuuuup");
 const up = document.getElementById("upppppp");
-const down = document.getElementById("down");
+const down = document.getElementById("dddown");
 const left = document.getElementById("left");
 const right = document.getElementById("right");
 const fuel = document.getElementById("fuel");
