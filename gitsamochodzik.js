@@ -6,7 +6,7 @@ const fuel = document.getElementById("fuel");
 const canister = document.getElementById("canister");
 const upCar = 90
 const downCar = 270
-const leftCar = 0
+const leftCar = 10
 const rightCar = 180
 // komentarz
 let myCar = {
